@@ -1,0 +1,16 @@
+{
+  "name": "mls",
+  "version": "1.0.0",
+  "description": "gsmls scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David DiBenedetto",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.4.2",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "puppeteer": "^2.0.0"
+  }
+}
